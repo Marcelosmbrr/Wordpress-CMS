@@ -1,0 +1,4 @@
+O Plugin Duplicator na versão gratuita faz clonagem e migração, mas não backup.
+Já o Plugin UpdraftPlus faz backup na versão gratuita, mas não clonagem e migração.
+Ou seja, juntando ambos, temos uma solução completa.
+
