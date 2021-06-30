@@ -1,5 +1,0 @@
-Login URL: /login/
-nome de usuário: marcelosmbr
-senha: wordpress
-
-Banco de dados: wordpress_5
